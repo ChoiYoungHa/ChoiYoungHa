@@ -1,8 +1,8 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChoiYoungHa)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://weight-devlog.tistory.com/)](https://weight-devlog.tistory.com/)
-https://img.shields.io/endpoint?url=https://www.notion.so/a136c926a8294681b9e1675bcf591345&style?flat&logo=appveyor
-
+[![Facebook Badge](https://img.shields.io/badge/My portfolio-1877f2?style=flat-square&logo=appveyor&logoColor=white&link=https://www.notion.so/a136c926a8294681b9e1675bcf591345
+(https://www.notion.so/a136c926a8294681b9e1675bcf591345)
 
 
 
