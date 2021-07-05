@@ -1,6 +1,8 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChoiYoungHa)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://weight-devlog.tistory.com/)](https://weight-devlog.tistory.com/)
+[![Tech Blog Badge](http://img.shields.io/badge/-My%portfolio?style=flat-square&logo=portfolio&link=https://weight-devlog.tistory.com/)](https://weight-devlog.tistory.com/)
+
 
 
 <!--
