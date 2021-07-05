@@ -1,8 +1,7 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChoiYoungHa)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://weight-devlog.tistory.com/)](https://weight-devlog.tistory.com/)
- [![Facebook Badge](https://img.shields.io/badge/My Portfolio-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.notion.so/a136c926a8294681b9e1675bcf591345)](https://www.notion.so/a136c926a8294681b9e1675bcf591345)
- (https://img.shields.io/badge/notion-My%20portfolio-brightgreen&link=https://www.notion.so/a136c926a8294681b9e1675bcf591345)(https://www.notion.so/a136c926a8294681b9e1675bcf591345)
+(https://img.shields.io/badge/notion-My%20portfolio-brightgreen&link=https://www.notion.so/a136c926a8294681b9e1675bcf591345)(https://www.notion.so/a136c926a8294681b9e1675bcf591345)
 
 
 
