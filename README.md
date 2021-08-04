@@ -1,11 +1,5 @@
 ### Hi there 👋
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChoiYoungHa)](https://github.com/ChoiYoungHa)<br>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://weight-devlog.tistory.com/)](https://weight-devlog.tistory.com/)
-<a href="https://www.notion.so/a136c926a8294681b9e1675bcf591345">
-    <img 
-        src="http://img.shields.io/badge/-My portfolio-lightgrey?style=flat&logo=Notion&link=https://www.notion.so/a136c926a8294681b9e1675bcf591345"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
 
 
 
