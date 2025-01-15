@@ -63,16 +63,16 @@ DevOps/MLOps 엔지니어로서 클라우드 인프라 설계, 구축 및 운영
 
 ## 📫 How to reach me
 <div>
-  <a href="mailto:gymlet789@gmail.com" target="_blank">
+  <a href="mailto:gymlet789@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ChoiYoungHa" target="_blank">
+  <a href="https://github.com/ChoiYoungHa">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://future-zydeco-6c6.notion.site/WiKi-9a72ee68b5f0488fb65ae6ba204ca672" target="_blank">
+  <a href="https://future-zydeco-6c6.notion.site/WiKi-9a72ee68b5f0488fb65ae6ba204ca672">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
   </a>
-  <a href="https://younghachoi.netlify.app/" target="_blank">
+  <a href="https://younghachoi.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
   </a>
 </div>
