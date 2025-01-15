@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=9C5FE4&text=I%20am%20Young-ha%20Choi.&fontSize=70&fontColor=000000&stroke=000000&strokeWidth=2)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=9C5FE4&text=Welcome%20to%20my%20GitHub!&fontSize=60&fontColor=000000&stroke=000000&strokeWidth=2)
 
 # 👋 Hi there, I'm Young-ha Choi
 
