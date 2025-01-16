@@ -14,7 +14,7 @@ DevOps/MLOps 엔지니어로서 클라우드 인프라 설계, 구축 및 운영
 **브랜디 (2023.02 ~ 2023.05)**
 - MWAA(Airfow), Glue, Athena, S3, Lambda를 활용한 데이터 파이프라인 운영
 - Lambda를 활용한 메트릭 리포팅 자동화 구현
-- 내부 Hadoop & Spark 클러스터 구축으로 AWS EMR 비용 40% 절감
+- 내부 Hadoop & Spark 클러스터 구축으로 AWS EMR 비용 60% 절감
 
 **인사이드정보 (2021.09 ~ 2023.02)**
 - 300시간 -> 12시간 대용량 BLOB 데이터 처리 시간 최적화
