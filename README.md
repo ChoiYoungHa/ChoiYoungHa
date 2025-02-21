@@ -63,4 +63,3 @@
   
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=venom&color=9C5FE4&height=200&section=footer)
