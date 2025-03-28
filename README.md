@@ -27,7 +27,7 @@
 - 평균 검색 속도 2.5초 → 1.8초 개선
 - 금융 시스템 보안성 강화를 위한 민감 데이터 전처리 로직 구현
 
-## 🛠 Technical Skills
+## 🛠 Search Engineer Skills
 - **Search Engine**: Elasticsearch, Lucene
 - **Cloud Platforms**: AWS, GCP
 - **Big Data**: Hadoop, Spark, Apache Airflow
