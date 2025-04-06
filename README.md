@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Youngha Choi
 
-### 🚀 Elasticsearch Engineer | Data Pipeline & Search System Specialist
+### 🚀 Elasticsearch Engineer
 검색 시스템 최적화와 데이터 엔지니어링에 특화된 전문 엔지니어로서, AWS와 온프레미스 환경에서 대규모 데이터 파이프라인을 구축하고 검색 엔진 성능을 향상시킨 경험을 보유하고 있습니다. 데이터 수집, 처리, 검색 성능 개선에 집중하며, 온프레미스와 클라우드 인프라를 활용해 확장 가능하고 안정적인 솔루션을 설계하는 데 주력하고 있습니다.
 
 ## 💼 Professional Experience
@@ -43,7 +43,7 @@
 - 클라우드 네이티브 솔루션 구현
 
 ## 📈 Continuous Learning
-현재 Elasticsearch 엔지니어로서 지속적인 기술 성장과 혁신적인 솔루션 개발에 집중하고 있습니다.
+현재 Elasticsearch 엔지니어로서 지속적인 기술 성장에 집중하고 있습니다.
 
 ---
 
